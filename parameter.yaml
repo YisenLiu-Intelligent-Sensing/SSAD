@@ -1,0 +1,5 @@
+data_directory : ./data
+model_directory: ./model
+result_directory: ./result
+pic_directory: ./result/pic
+result_file: ./result/result.csv
